@@ -10,3 +10,5 @@ compression one of the greatest compression algorithms to
 date.
 
 To install add `stalin-sort` to your rust project's dependencies or use `cargo add stalin-sort`
+
+(This is a joke project. Do not use.)
